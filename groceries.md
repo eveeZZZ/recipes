@@ -1,3 +1,3 @@
 # Groceries and prices
-## Tomatoes 1 dollar
+## Tomatoes are 1 dollar each 
 ## Watermelon 5 dollars
